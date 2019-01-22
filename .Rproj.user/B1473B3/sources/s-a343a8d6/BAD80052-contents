@@ -1,0 +1,24 @@
+alpha = 0.9
+beta = 0.3
+mu_0 = matrix(c(0.5,0.5,0.5),3,1)
+Lambda_0 = diag(3)
+v_0 = 4
+Sigma_0 = diag(3)
+
+postC2 = Segment(img, C, img_vec, 1, alpha, beta, mu_0, Lambda_0, v_0, Sigma_0)
+
+#library(microbenchmark)
+#microbenchmark(Segment(img, C, img_vec, 1, alpha, beta, mu_0, Lambda_0, v_0, Sigma_0),times = 1)
+
+library(RColorBrewer)
+color <- col2rgb(brewer.pal(12,"Paired"))
+for(i in 1:m){
+  for(j in 1:n){
+    k = postC2[i,j]+1
+    k=min(k,12)
+    img_seg[i,j,]=as.vector(color[,k])
+  }
+}
+
+writeJPEG(img_seg,"./potts.jpg",0.95)
+

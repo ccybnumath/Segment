@@ -1,0 +1,53 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 19,
+                "file" : "/home/chencanyi2018/Rstudio_ccy/ImageSegment/src/real_final.cpp",
+                "kind" : 6,
+                "line" : 20,
+                "name" : "sumk_img(arma::cube &, int, arma::mat &)",
+                "parent_name" : "",
+                "usr" : "c:@F@sumk_img#&$@N@arma@C@Cube>#d#I#&$@N@arma@C@Mat>#d#"
+            },
+            {
+                "column" : 17,
+                "file" : "/home/chencanyi2018/Rstudio_ccy/ImageSegment/src/real_final.cpp",
+                "kind" : 6,
+                "line" : 40,
+                "name" : "S_k(arma::cube &, int, arma::mat, arma::vec &)",
+                "parent_name" : "",
+                "usr" : "c:@F@S_k#&$@N@arma@C@Cube>#d#I#$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 18,
+                "file" : "/home/chencanyi2018/Rstudio_ccy/ImageSegment/src/real_final.cpp",
+                "kind" : 6,
+                "line" : 61,
+                "name" : "mirrorIndex(int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@mirrorIndex#I#I#"
+            },
+            {
+                "column" : 17,
+                "file" : "/home/chencanyi2018/Rstudio_ccy/ImageSegment/src/real_final.cpp",
+                "kind" : 6,
+                "line" : 66,
+                "name" : "log_Normal(arma::mat &, arma::mat &, double, double, arma::mat &, arma::cube &)",
+                "parent_name" : "",
+                "usr" : "c:@F@log_Normal#&$@N@arma@C@Mat>#d#S0_#d#d#S0_#&$@N@arma@C@Cube>#d#"
+            },
+            {
+                "column" : 17,
+                "file" : "/home/chencanyi2018/Rstudio_ccy/ImageSegment/src/real_final.cpp",
+                "kind" : 6,
+                "line" : 89,
+                "name" : "Segment(arma::cube &, arma::mat &, arma::mat &, int, double, double, arma::vec &, arma::mat &, double, arma::mat &)",
+                "parent_name" : "",
+                "usr" : "c:@F@Segment#&$@N@arma@C@Cube>#d#&$@N@arma@C@Mat>#d#S2_#I#d#d#&$@N@arma@C@Col>#d#S2_#d#S2_#"
+            }
+        ],
+        "file" : "/home/chencanyi2018/Rstudio_ccy/ImageSegment/src/real_final.cpp",
+        "file_last_write" : 1548153124
+    }
+]

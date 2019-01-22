@@ -1,0 +1,26 @@
+]0;/home/chencanyi2018/Rstudio_ccy/ImageSegment]0;chencanyi2018@server2: ~/Rstudio_ccy/ImageSegment[01;32mchencanyi2018@server2[00m:[01;34m~/Rstudio_ccy/ImageSegment[00m$ [K]0;chencanyi2018@server2: ~/Rstudio_ccy/ImageSegment[01;32mchencanyi2018@server2[00m:[01;34m~/Rstudio_ccy/ImageSegment[00m$ cd ..
+]0;/home/chencanyi2018/Rstudio_ccy]0;chencanyi2018@server2: ~/Rstudio_ccy[01;32mchencanyi2018@server2[00m:[01;34m~/Rstudio_ccy[00m$ cd ImageSegment/
+]0;/home/chencanyi2018/Rstudio_ccy/ImageSegment]0;chencanyi2018@server2: ~/Rstudio_ccy/ImageSegment[01;32mchencanyi2018@server2[00m:[01;34m~/Rstudio_ccy/ImageSegment[00m$ git remote add origin git@github.com:ccybnumath/Segmen t.git
+fatal: Not a git repository (or any of the parent directories): .git
+]0;/home/chencanyi2018/Rstudio_ccy/ImageSegment]0;chencanyi2018@server2: ~/Rstudio_ccy/ImageSegment[01;32mchencanyi2018@server2[00m:[01;34m~/Rstudio_ccy/ImageSegment[00m$ git init
+Initialized empty Git repository in /home/chencanyi2018/Rstudio_ccy/ImageSegment/.git/
+]0;/home/chencanyi2018/Rstudio_ccy/ImageSegment]0;chencanyi2018@server2: ~/Rstudio_ccy/ImageSegment[01;32mchencanyi2018@server2[00m:[01;34m~/Rstudio_ccy/ImageSegment[00m$ git initremote add origin git@github.com:ccybnumath/Segmentt.git
+]0;/home/chencanyi2018/Rstudio_ccy/ImageSegment]0;chencanyi2018@server2: ~/Rstudio_ccy/ImageSegment[01;32mchencanyi2018@server2[00m:[01;34m~/Rstudio_ccy/ImageSegment[00m$ git commit -m "create package ImageSen[Kgment"
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rbuildignore[m
+	[31m.Rproj.user/[m
+	[31mDESCRIPTION[m
+	[31mImageSegment.Rproj[m
+	[31mNAMESPACE[m
+	[31mR/[m
+	[31mman/[m
+	[31mpotts.jpg[m
+	[31msrc/[m
+	[31mtest.jpg[m
+
+nothing added to commit but untracked files present
+]0;/home/chencanyi2018/Rstudio_ccy/ImageSegment]0;chencanyi2018@server2: ~/Rstudio_ccy/ImageSegment[01;32mchencanyi2018@server2[00m:[01;34m~/Rstudio_ccy/ImageSegment[00m$ git[K[K[Kgit add .

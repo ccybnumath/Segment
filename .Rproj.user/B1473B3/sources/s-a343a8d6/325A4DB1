@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548152125802.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "325A4DB1",
+    "lastKnownWriteTime" : 1548153124,
+    "last_content_update" : 1548153124757,
+    "path" : "~/Rstudio_ccy/ImageSegment/src/real_final.cpp",
+    "project_path" : "src/real_final.cpp",
+    "properties" : {
+        "cursorPosition" : "220,7",
+        "scrollLine" : "209",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}
