@@ -1,6 +1,10 @@
 {
-    "path" : "~/Rstudio_ccy/ImageSegment/R",
+    "path" : "~/Rstudio_ccy/ImageSegment",
     "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
         {
             "ascending" : true,
             "columnIndex" : 2
